@@ -114,4 +114,3 @@ print(R.version.string)
 #Answer: The output above indicates to put my personal info. Thus, the output is my name and age. 
 
 usethis::use_git_config(user.name= "Aira Belle Zerrudo", user.email= "airabelle.zerrudo.students.isatu.edu.ph")
-
